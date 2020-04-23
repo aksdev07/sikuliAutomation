@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e5284f-8d03-40c1-9335-24b9333f233a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_SparseBitSet_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birst/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birst/src/test/java/TEST/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birst/src/test/java/TEST/TestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Java_LOGICS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Main/src/CompareCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Main/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Main/src/ExcelComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Main/src/ExportFinalXLS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Main/src/LogicsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_LOGICS/Main/src/WriteGuru99ExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birthdays.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_LOGICS/ExportFinalXLS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_LOGICS/META-INF/Java_LOGICS.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java_LOGICS/WriteGuru99ExcelFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/sikuliAutomation/META-INF/sikuliAutomation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sikuliAutomation.eml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Actual_Report/file2.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Expected_Report/3979.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TEST/MyWorkAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birst/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Birst/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birst/src/test/java/TEST/MyWorkAutomation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sikuliAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sikuliAutomation.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Anuj\IdeaProjects\Home\sikuliAutomation\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aB6WPg7sR141WR2znjAINtG9dK" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$MAVEN_REPOSITORY$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anuj\IdeaProjects\Home\sikuliAutomation\Java_LOGICS\Main\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anuj\IdeaProjects\Home\sikuliAutomation\Birst" />
+      <recent name="C:\Users\Anuj\IdeaProjects\Home\sikuliAutomation\Java_LOGICS\Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExportFinalXLS">
+    <configuration name="CompareCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareCSV" />
+      <module name="Java_LOGICS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelDateReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelDateReader" />
+      <module name="Java_LOGICS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExportFinalXLS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExportFinalXLS" />
+      <module name="Java_LOGICS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reader" />
+      <module name="Java_LOGICS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteGuru99ExcelFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WriteGuru99ExcelFile" />
+      <module name="Java_LOGICS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExportFinalXLS" />
+        <item itemvalue="Application.Reader" />
+        <item itemvalue="Application.CompareCSV" />
+        <item itemvalue="Application.ExcelDateReader" />
+        <item itemvalue="Application.WriteGuru99ExcelFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e5284f-8d03-40c1-9335-24b9333f233a" name="Default Changelist" comment="" />
+      <created>1586196670688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586196670688</updated>
+      <workItem from="1586196677326" duration="2000" />
+      <workItem from="1586196872236" duration="861000" />
+      <workItem from="1586197994918" duration="97000" />
+      <workItem from="1586236397742" duration="1973000" />
+      <workItem from="1586372486204" duration="928000" />
+      <workItem from="1586448664857" duration="6730000" />
+      <workItem from="1586789906920" duration="1458000" />
+      <workItem from="1587549299827" duration="23916000" />
+    </task>
+    <task id="LOCAL-00001" summary="committing String and HashMap() related methods which are useful.">
+      <created>1586790231280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586790231280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committing String and HashMap() related methods which are useful." />
+    <option name="LAST_COMMIT_MESSAGE" value="committing String and HashMap() related methods which are useful." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="41" key="#HTTP_Proxy" timestamp="1587570120405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="41" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1587570120405" />
+    <state x="275" y="24" key="#Project_Structure" timestamp="1587569250501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587569250501" />
+    <state x="413" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587569304157">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="121" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587569304157" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586198058934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586198058934" />
+    <state x="315" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587568976204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="315" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1587568976204" />
+    <state x="434" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587648205483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1587648205483" />
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1586790228771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586790228771" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1587649310880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587649310880" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1587671657956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587671657956" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1587671657955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587671657955" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1587671657955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587671657955" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1587671657955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587671657955" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1587647872417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587647872417" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1586790249950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586790249950" />
+    <state x="499" y="144" key="chooseDestDirectoryDialog" timestamp="1587569159104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587569159104" />
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1586789907796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586789907796" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587569214080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587569214080" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587647865789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587647865789" />
+  </component>
+</project>
